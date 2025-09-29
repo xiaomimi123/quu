@@ -5,9 +5,6 @@ https://api.whatsapp.com/send/?phone=447490467824&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447476246554&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447460035324&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447378527649&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447366069098&text&app_absent=0
-https://api.whatsapp.com/send/?phone=447360391813&text&app_absent=0
-https://api.whatsapp.com/send/?phone=212783944041&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447362742230&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447447741910&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447456709704&text&app_absent=0
